@@ -1,4 +1,5 @@
 # college-demo
+
 This is the demo of a mini project.
 <br>
-Author - Ankit Ghosh
+Author - Ankit (BCET)
